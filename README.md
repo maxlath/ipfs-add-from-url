@@ -1,5 +1,11 @@
 # ipfs-add-from-url
-A command line executable to add a file to IPFS from a URL instead of a file path
+A command line executable to add a file to [IPFS](http://ipfs.io) from a URL instead of a file path
+
+## Dependency
+Make sure IPFS is [installed](https://ipfs.io/docs/install/) and the daemon running
+```sh
+ipfs daemon
+```
 
 ## Install
 **Globally**
