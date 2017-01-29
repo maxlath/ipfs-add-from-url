@@ -1,6 +1,6 @@
 {
   "name": "ipfs-add-from-url",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A command line executable to add a file to IPFS from a URL instead of a file path",
   "main": "index.js",
   "bin": {
